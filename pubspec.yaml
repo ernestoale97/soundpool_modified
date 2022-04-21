@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  soundpool_platform_interface: ^2.1.0
+  soundpool_platform_interface: ^1.0.2
 
 flutter:
   plugin:
